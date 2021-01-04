@@ -63,4 +63,4 @@ async def flush(ctx):
     await ctx.send('Queue cleared.')
     listOfPlayers.clear()
 
-client.run('Nzk0OTAyMDQ4NTQ0OTE1NDc2.X_BkOA.WVTMhYqKHIlj5RwjPcrLQzQrXmE')
+client.run('TOKEN HERE')
